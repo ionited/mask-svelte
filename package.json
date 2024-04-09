@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/ionited/mask-svelte#readme",
   "dependencies": {
-    "@ionited/mask": "^0.6.1"
+    "@ionited/mask": "^0.6.2"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^13.3.0",
